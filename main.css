@@ -54,7 +54,7 @@ nav a:link {
 font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
   color:orangered;
   text-decoration: none;
-  margin-right: 20px;
+  margin-right:80px;
 	
 }
 
@@ -63,14 +63,14 @@ nav a:visited {
 }
 
 nav a:hover {
-  color:rgba(104,104,104,1);
+  color:#E48425;
 }
 
 nav a:active {
   text-decoration: underline;
 }
 
-.left{
+.right{
 	width: 400px;
 	float:left;
 	margin-top:30px;
@@ -78,7 +78,7 @@ nav a:active {
 	
 }
 
-.right{
+.left{
 	width: 400px; 
 	float:left;
 	margin-left: 30px;
